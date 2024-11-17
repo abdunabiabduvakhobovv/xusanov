@@ -1,0 +1,33 @@
+*{
+    margin: ;
+    padding: ;
+    box-sizing: border-box;
+}
+
+.text{
+justify-content: space-between;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+.booxx{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+
+
+
